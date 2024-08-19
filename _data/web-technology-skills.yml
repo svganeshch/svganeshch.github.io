@@ -1,0 +1,11 @@
+- name: PHP
+  percentage: 80
+  color: danger
+
+- name: HTML / CSS
+  percentage: 70
+  color:
+
+- name: Bootstrap
+  percentage: 50
+  color: secondary

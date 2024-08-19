@@ -1,0 +1,11 @@
+- name: Javascript
+  percentage: 80
+  color: danger
+
+- name: Bash
+  percentage: 70
+  color:
+
+- name: Groovy
+  percentage: 50
+  color: secondary

@@ -1,0 +1,11 @@
+- name: English
+  percentage: 100
+  color: info
+
+- name: Hindi
+  percentage: 100
+  color: success
+
+- name: Telugu
+  percentage: 100
+  color: success
