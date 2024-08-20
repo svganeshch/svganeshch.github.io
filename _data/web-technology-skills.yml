@@ -2,6 +2,14 @@
   percentage: 80
   color: danger
 
+- name: Apache2
+  percentage: 80
+  color: danger
+
+- name: Jenkins
+  percentage: 90
+  color: danger
+
 - name: HTML / CSS
   percentage: 70
   color:

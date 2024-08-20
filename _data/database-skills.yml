@@ -1,0 +1,7 @@
+- name: MySQL
+  percentage: 100
+  color: info
+
+- name: MongoDB
+  percentage: 75
+  color: success

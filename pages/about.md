@@ -14,6 +14,17 @@ Experienced in the complete software development lifecycle, from conceptualizati
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Scripting Languages" source=site.data.scripting-language-skills %}
 {% include about/skills.html title="Web Technoligies" source=site.data.web-technology-skills %}
+</div>
+
+<div class="row">
+    {% include about/skills.html title="Game Engines" source=site.data.gameengine-skills %}
+</div>
+
+<div class="row">
+    {% include about/skills.html title="Databases" source=site.data.database-skills %}
+</div>
+
+<div class="row">
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 

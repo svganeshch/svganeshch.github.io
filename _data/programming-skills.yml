@@ -1,8 +1,12 @@
 - name: C#
-  percentage: 90
+  percentage: 100
   color: danger
 
 - name: Java
+  percentage: 100
+  color:
+
+- name: C++
   percentage: 90
   color:
 
