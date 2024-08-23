@@ -1,5 +1,5 @@
 ---
-name: Lightway - Light and Wonder Gamejam
+name: Lightway (Light and Wonder Gamejam)
 tools: [C#, Unity, 3D]
 image: https://img.youtube.com/vi/kHp-WX4rbb0/hqdefault.jpg
 description: A first-person shooter where players must escape a mental health facility using throwable injection projectiles as their only weapons.
