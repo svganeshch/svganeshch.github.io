@@ -1,6 +1,7 @@
 - title: Student, Sri Chaitanya Junior Kalasala
-  from: 2013
-  to: 2015
+  from: 
+  to: 
+  percentage: 60%
   description: MPC
 
 - title: Self-employed, ArrowOS
@@ -15,4 +16,5 @@
 - title: Student, ICAT Design and Media College, Hyd
   from: 2021
   to: 2025
+  percentage: 80%
   description: Bachelor of Science (Honours), Computer Science Game Development (CSGD)
