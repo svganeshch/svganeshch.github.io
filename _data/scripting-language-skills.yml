@@ -1,5 +1,5 @@
 - name: Javascript
-  percentage: 80
+  percentage: 75
   color: danger
 
 - name: Bash

@@ -1,15 +1,15 @@
 - name: C#
-  percentage: 100
+  percentage: 90
   color: danger
 
 - name: Java
-  percentage: 100
-  color:
-
-- name: C++
   percentage: 90
   color:
 
+- name: C++
+  percentage: 80
+  color:
+
 - name: Python
-  percentage: 70
+  percentage: 60
   color: secondary

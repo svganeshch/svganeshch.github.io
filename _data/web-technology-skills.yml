@@ -7,11 +7,11 @@
   color: danger
 
 - name: Jenkins
-  percentage: 90
+  percentage: 80
   color: danger
 
 - name: HTML / CSS
-  percentage: 70
+  percentage: 80
   color:
 
 - name: Bootstrap
