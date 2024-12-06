@@ -1,4 +1,5 @@
 ---
+order: 999
 name: Kaine (Academic Minor Project)
 tools: [C#, Unity, 3D]
 image: https://img.youtube.com/vi/yD0PuMLek94/hqdefault.jpg
@@ -57,4 +58,4 @@ I implemented dynamic footsteps, enhancing the experience with sounds that adapt
 <p class="text-center">
     {% include elements/button.html link="https://1drv.ms/w/c/acb598d6e118d17c/EflZExZnvdBIvKurqazFMQQByIsqYVJW2PA51zRICjbwkQ?e=XuLcT4" text="Game Design Document" style="primary" size="sm" %}
     {% include elements/button.html link="https://drive.google.com/file/d/1t2ho15csjhkBayFWchMjuin1fGg3tRZf/view?usp=sharing" text="Build (Windows)" style="primary" size="sm" %}
-</p>
+</p>.

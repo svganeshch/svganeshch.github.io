@@ -1,4 +1,5 @@
 ---
+order: 997
 name: The Sun
 tools: [C#, Unity, Photoshop]
 image: /assets/images/projects/thesun/thesun-thumb.png
