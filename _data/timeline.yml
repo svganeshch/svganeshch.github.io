@@ -4,7 +4,13 @@
   description: Creating hyper-casual mobile games with a focus on Match-3, Sorting, and other satisfying mechanics.
                Ensuring every interaction delivers that perfect ASMR feel to keep the dopamine flowing!
 
-- title: Self-employed, ArrowOS
+- title: Student, ICAT Design and Media College, Hyd
+  from: 2021
+  to: 2025
+  percentage: 8.5 GPA
+  description: Bachelor of Science (Honours), Computer Science Game Development (CSGD)
+
+  - title: Self-employed, ArrowOS
   from: 2018
   to: 2023
   description:  Provide with an aftermarket Android OS of optimal performance and bug free experience to several devices.
@@ -12,9 +18,3 @@
                 Implemented a CI pipeline and setting up of back-end infrastructure.
                 Further made commits in improving and adding additional features to the Android system.
                 Took the leadership of reviewing commits and assisted other developers with coding, troubleshooting and debugging for the further development of the project.
-
-- title: Student, ICAT Design and Media College, Hyd
-  from: 2021
-  to: 2025
-  percentage: 8.5 GPA
-  description: Bachelor of Science (Honours), Computer Science Game Development (CSGD)
