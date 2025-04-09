@@ -9,6 +9,10 @@ description: A super addictive Match-3 Mobile Game with a dynamic prop arrangmen
 # Gameplay
 {% include elements/video.html id="Rfx4y-hDTDQ" %}
 
+<p class="text-center">
+    {% include elements/button.html link="https://drive.google.com/file/d/16G3lTm72vhMGHvZjL1R3tpmTd5O3oM-Z/view?usp=sharing" text="APK (Android)" style="primary" size="sm" %}
+</p>.
+
 # 🍱 Devlog: Smarter Matching & Dynamic Layering in FoodMatch
 
 Over the past few development cycles, **FoodMatch** has taken some big steps forward in both gameplay mechanics and performance optimizations. Here's a breakdown of what’s been cooking, backed by real progress from the Git commit history.

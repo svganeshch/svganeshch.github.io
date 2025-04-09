@@ -9,7 +9,12 @@ description: A High-Performance Match-3 Mobile Game with an Optimized Grid Syste
 # Gameplay
 {% include elements/video.html id="chIecSj61Gc" %}
 
+<p class="text-center">
+    {% include elements/button.html link="https://drive.google.com/file/d/1QouNn7OVJtnTuSaj-m1fLWrXHrfR0CgY/view?usp=sharing" text="APK (Android)" style="primary" size="sm" %}
+</p>.
+
 When developing a mobile game, performance is a key factor in ensuring smooth gameplay, especially for casual puzzle games like Match-3. In this project, I focused on designing a highly efficient and scalable grid system while implementing an event-driven architecture that eliminated the need for Unity's Update() method. This approach resulted in exceptional performance on mobile devices.
+
 
 ## Optimized Grid Generation
 
